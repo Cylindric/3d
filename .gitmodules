@@ -1,0 +1,9 @@
+[submodule "cardbox"]
+	path = cardbox
+	url = git@github.com:Cylindric3D/cardbox.git
+[submodule "cardstand"]
+	path = cardstand
+	url = git@github.com:Cylindric3D/cardstand.git
+[submodule "descentorganiser"]
+	path = descentorganiser
+	url = git@github.com:Cylindric3D/descentorganiser.git
