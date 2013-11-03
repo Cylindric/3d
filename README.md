@@ -12,6 +12,7 @@
 ## Household ##
 
 * Vacuum-cleaner hose lock to stop the stupid pipe coming off all the time
+* Hose-adapter for kitchen tap
 
 ## Ornamentation ##
 
